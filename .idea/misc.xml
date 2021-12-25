@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/HaGiaHuy_17031741_AndroidCK/app/src/main/res/layout/activity_chuc_nang_app.xml" value="0.264" />
+        <entry key="..\:/HaGiaHuy_17031741_AndroidCK/app/src/main/res/layout/activity_dang_ky.xml" value="0.24010416666666667" />
+        <entry key="..\:/HaGiaHuy_17031741_AndroidCK/app/src/main/res/layout/activity_hang_hoa.xml" value="0.25416666666666665" />
+        <entry key="..\:/HaGiaHuy_17031741_AndroidCK/app/src/main/res/layout/activity_kho.xml" value="0.25271739130434784" />
+        <entry key="..\:/HaGiaHuy_17031741_AndroidCK/app/src/main/res/layout/activity_main.xml" value="0.24864130434782608" />
+        <entry key="..\:/HaGiaHuy_17031741_AndroidCK/app/src/main/res/layout/activity_nhan_vien.xml" value="0.23550724637681159" />
+        <entry key="..\:/HaGiaHuy_17031741_AndroidCK/app/src/main/res/layout/activity_nhom_hang_hoa_acitivty.xml" value="0.23550724637681159" />
+        <entry key="..\:/HaGiaHuy_17031741_AndroidCK/app/src/main/res/layout/activity_phieu_nhap_kho.xml" value="0.25416666666666665" />
+        <entry key="..\:/HaGiaHuy_17031741_AndroidCK/app/src/main/res/layout/activity_phieu_xuat_kho.xml" value="0.2359375" />
+        <entry key="..\:/HaGiaHuy_17031741_AndroidCK/app/src/main/res/layout/activity_thong_ke_phieu_nhap_xuat.xml" value="0.264" />
+        <entry key="..\:/HaGiaHuy_17031741_AndroidCK/app/src/main/res/layout/activity_xem_danh_sach_hang_hoa.xml" value="0.25416666666666665" />
+        <entry key="..\:/HaGiaHuy_17031741_AndroidCK/app/src/main/res/layout/activity_xem_danh_sach_nhom_hang_hoa.xml" value="0.25416666666666665" />
+        <entry key="..\:/HaGiaHuy_17031741_AndroidCK/app/src/main/res/layout/activity_xem_kho.xml" value="0.24864130434782608" />
+        <entry key="..\:/HaGiaHuy_17031741_AndroidCK/app/src/main/res/layout/dialog_doimatkhau_nv.xml" value="0.264" />
+        <entry key="..\:/HaGiaHuy_17031741_AndroidCK/app/src/main/res/layout/dialog_suathongtin_hh.xml" value="0.25271739130434784" />
+        <entry key="..\:/HaGiaHuy_17031741_AndroidCK/app/src/main/res/layout/dialog_suathongtin_kho.xml" value="0.25416666666666665" />
+        <entry key="..\:/HaGiaHuy_17031741_AndroidCK/app/src/main/res/layout/dialog_suathongtin_nhomhh.xml" value="0.25416666666666665" />
+        <entry key="..\:/HaGiaHuy_17031741_AndroidCK/app/src/main/res/layout/dialog_suathongtin_nv.xml" value="0.24003623188405798" />
+        <entry key="..\:/HaGiaHuy_17031741_AndroidCK/app/src/main/res/layout/dialog_suathongtin_phieunhap.xml" value="0.2359375" />
+        <entry key="..\:/HaGiaHuy_17031741_AndroidCK/app/src/main/res/layout/dialog_tao_hanghoa.xml" value="0.25416666666666665" />
+        <entry key="..\:/HaGiaHuy_17031741_AndroidCK/app/src/main/res/layout/dialog_tao_nhomhanghoa.xml" value="0.23550724637681159" />
+        <entry key="..\:/HaGiaHuy_17031741_AndroidCK/app/src/main/res/layout/dialog_taokho.xml" value="0.25271739130434784" />
+        <entry key="..\:/HaGiaHuy_17031741_AndroidCK/app/src/main/res/layout/item_hanghoa.xml" value="0.25416666666666665" />
+        <entry key="..\:/HaGiaHuy_17031741_AndroidCK/app/src/main/res/layout/item_kho.xml" value="0.24864130434782608" />
+        <entry key="..\:/HaGiaHuy_17031741_AndroidCK/app/src/main/res/layout/item_nhanvien.xml" value="0.23550724637681159" />
+        <entry key="..\:/HaGiaHuy_17031741_AndroidCK/app/src/main/res/layout/item_nhomhanghoa.xml" value="0.25416666666666665" />
+        <entry key="..\:/HaGiaHuy_17031741_AndroidCK/app/src/main/res/layout/item_phieunhapkho.xml" value="0.25416666666666665" />
+        <entry key="..\:/HaGiaHuy_17031741_AndroidCK/app/src/main/res/layout/item_phieuxuatkho.xml" value="0.2359375" />
+        <entry key="..\:/HaGiaHuy_17031741_AndroidCK/app/src/main/res/menu/menu_nhanvien.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

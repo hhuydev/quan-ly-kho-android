@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:orderInCategory="3"
+        android:title="Hiển thị">
+        <menu>
+            <item
+                android:id="@+id/mnDSNhanVien"
+                android:title="Danh sách nhân viên"></item>
+            <item
+                android:id="@+id/mnDSNhomHangHoa"
+                android:title="Danh sách nhóm hàng hóa"></item>
+            <item
+                android:id="@+id/mnDSHangHoa"
+                android:title="Danh sách hàng hóa"></item>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/mnThongTin"
+        android:orderInCategory="1"
+        android:title="Thông tin cá nhân"></item>
+    <item
+        android:id="@+id/mnDoiMatKhau"
+        android:orderInCategory="2"
+        android:title="Đổi mật khẩu"></item>
+    <item
+        android:orderInCategory="4"
+        android:title="Kho">
+        <menu>
+            <item
+                android:id="@+id/mnQuanLyKho"
+                android:title="Quản lý kho"></item>
+            <item
+                android:id="@+id/mnQuanLyXuatKho"
+                android:title="Quản lý xuất kho"></item>
+            <item
+                android:id="@+id/mnQuanLyNhapKho"
+                android:title="Quản lý nhập kho"></item>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/mnThongKe"
+        android:orderInCategory="5"
+        android:title="Thống kê xuất/nhập kho"></item>
+    <item
+        android:id="@+id/mnThoat"
+        android:orderInCategory="6"
+        android:title="Đăng xuất"></item>
+</menu>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:weightSum="10">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_weight="9"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/txtItemMaHangHoa"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mã hàng hóa">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/txtItemTenHangHoa"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Tên hàng hóa">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/txtItemGiaHangHoa"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Đơn giá">
+
+        </TextView>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_weight="1">
+
+        <Button
+            android:id="@+id/btnSuaTTHangHoaActivity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#ffb503"
+            android:text="Sửa" />
+
+        <Button
+            android:id="@+id/btnXoaTTHangHoaActivity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#db402c"
+            android:text="Xóa" />
+
+    </LinearLayout>
+
+
+</LinearLayout>
